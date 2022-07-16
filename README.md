@@ -18,7 +18,26 @@
 
 | Unit # | Lecture No. | Topic | Methodology | No. of Hours |
 |:------:|:-----------:|-------|-------------|:------------:|
-| | | | | |
+| 1 | | Introduction to cloud computing | | |
+| 1 | | Definition of cloud computing | | |
+| 1 | | Evolution of cloud computing | | |
+| 1 | | NIST reference Model | | |
+| 1 | | Service delivery model | | |
+| 1 | | Deployment models | | |
+| 1 | | Benefits and challenges of cloud adoption | | |
+| 1 | | Introduction to popular cloud platforms | | |
+| 2 | | Virtualization and Cloud Computing Architecture | | | 
+| 2 | | Introduction & Characteristic of Virtualized Environments | | |
+| 2 | | Taxonomy of Virtualization Techniques | | |
+| 2 | | Virtualization and Cloud Computing | | |
+| 2 | | Technology Examples. Containers: Docker, Linux containers | | |
+| 3 | | Distributed computing  | | |
+| 3 | | Cloud- Application - IoT, BigData | | |
+| 3 | | Scientific Applications | | | 
+| 3 | | Business and Consumer Applications | | |
+| 3 | | Third Party Cloud Services | | |
+| 3 | | Security and privacy issues | | |
+| 3 | | Cloud-centric regulatory compliance issues and mechanisms | | |
 
 ### :green_book: Text and Reference Books
  - **Text:** Anthony T Velte, “Cloud Computing: A practical Approach”, Tata McGraw Hill, 2009.
