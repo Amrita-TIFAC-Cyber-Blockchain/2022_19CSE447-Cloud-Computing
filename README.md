@@ -55,7 +55,7 @@
 
 | Course Start | 20 - Jul - 2022 |
 |--------------|-----------------|
-| | |
+| Case Study Topic Finalization | 05 - Aug - 2022 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Anthony T Velte, “Cloud Computing: A practical Approach”, Tata McGraw Hill, 2009.
@@ -65,4 +65,4 @@
  
  
  ### :notebook: Materials and Resources
- - TBA
+ - [Cisco Cloud Computing Case Studies](https://www.cisco.com/c/en/us/solutions/cloud-computing/case-studies.html#~all-case-studies)
