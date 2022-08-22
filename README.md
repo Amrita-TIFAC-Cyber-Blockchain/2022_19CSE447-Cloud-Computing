@@ -18,15 +18,15 @@
 
 | Unit # | Lecture No. | Topic | Methodology | No. of Hours |
 |:------:|:-----------:|-------|-------------|:------------:|
-| # | # | Course and Class Introduction | | 2 |
-| 1 | | Introduction to Cloud Computing | | |
-| 1 | | Definition of Cloud Computing | | |
+| # | # | Course and Class Introduction |  | 2 |
+| 1 | 1 | Introduction to Cloud Computing | | 1 |
+| 1 | 1 | Definition of Cloud Computing | | 1 |
 | 1 | | Evolution of Cloud Computing | | |
-| 1 | | NIST Reference Model | | |
+| 1 | 2 | NIST Reference Model | | 2 |
 | 1 | | Service Delivery Model | | |
 | 1 | | Deployment Models | | |
-| 1 | | Benefits and Challenges of Cloud Adoption | | |
-| 1 | | Introduction to popular Cloud Platforms | | |
+| 1 | 3 | Benefits and Challenges of Cloud Adoption | | 1 |
+| 1 | 3 | Introduction to popular Cloud Platforms | | 1 |
 | 2 | | Virtualization and Cloud Computing Architecture | | | 
 | 2 | | Introduction & Characteristic of Virtualized Environments | | |
 | 2 | | Taxonomy of Virtualization Techniques | | |
@@ -56,6 +56,7 @@
 | Course Start | 20 - Jul - 2022 |
 |--------------|-----------------|
 | Case Study Topic Finalization | 05 - Aug - 2022 |
+| Periodicals I | 02 - Sept - 2022 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Anthony T Velte, “Cloud Computing: A practical Approach”, Tata McGraw Hill, 2009.
