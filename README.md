@@ -51,6 +51,9 @@
 | **[Internal]** Periodical II | 15 |
 | **[External]** End-Semester Exam | 50 |
 
+### Case-Study
+[Click Here](Mini-Project)
+
 ### Dates and Deadlines
 
 | Course Start | 20 - Jul - 2022 |
