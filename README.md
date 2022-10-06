@@ -18,18 +18,18 @@
 
 | Unit # | Lecture No. | Topic | Methodology | No. of Hours |
 |:------:|:-----------:|-------|-------------|:------------:|
-| # | # | Course and Class Introduction |  | 2 |
-| 1 | 1 | Introduction to Cloud Computing | | 1 |
-| 1 | 1 | Definition of Cloud Computing | | 1 |
-| 1 | | Evolution of Cloud Computing | | |
-| 1 | 2 | NIST Reference Model | | 2 |
+| # | # | Course and Class Introduction ![](https://img.shields.io/badge/-Completed-brightgreen) |  | 2 |
+| 1 | 1 | Introduction to Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 |
+| 1 | 1 | Definition of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen)| | 1 |
+| 1 | 4 | Evolution of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
+| 1 | 2 | NIST Reference Model ![](https://img.shields.io/badge/-Completed-brightgreen) | | 2 |
 | 1 | | Service Delivery Model | | |
 | 1 | | Deployment Models | | |
-| 1 | 3 | Benefits and Challenges of Cloud Adoption | | 1 |
-| 1 | 3 | Introduction to popular Cloud Platforms | | 1 |
-| 2 | | Virtualization and Cloud Computing Architecture | | | 
-| 2 | | Introduction & Characteristic of Virtualized Environments | | |
-| 2 | | Taxonomy of Virtualization Techniques | | |
+| 1 | 3 | Benefits and Challenges of Cloud Adoption ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 |
+| 1 | 3 | Introduction to popular Cloud Platforms ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 |
+| 2 | 5 | Virtualization and Cloud Computing Architecture ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 | 
+| 2 | 5 | Introduction & Characteristic of Virtualized Environments ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 |
+| 2 | 5 | Taxonomy of Virtualization Techniques ![](https://img.shields.io/badge/-Completed-brightgreen) | | 2 |
 | 2 | | Virtualization and Cloud Computing | | |
 | 2 | | Technology Examples. Containers: Docker, Linux containers | | |
 | 3 | | Distributed Computing  | | |
