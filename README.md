@@ -60,6 +60,9 @@
 |--------------|-----------------|
 | Case Study Topic Finalization | 05 - Aug - 2022 |
 | Periodicals I | 02 - Sept - 2022 |
+| Periodicals II | 14 - Oct - 2022 |
+| Periodicals III | TBD |
+| End-Semester Exam | 30 - Nov - 2022 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Anthony T Velte, “Cloud Computing: A practical Approach”, Tata McGraw Hill, 2009.
