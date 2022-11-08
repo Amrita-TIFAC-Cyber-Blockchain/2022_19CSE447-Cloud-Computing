@@ -27,3 +27,4 @@
 |   20 |	Pathi Ramya Sree | 	Grapevine  | ![](https://img.shields.io/badge/-Completed-brightgreen) |
 |   21 |	Kishore S <br/> Ananth Krishnan <br/> Haris Kumar	| Green Cloud Computing and Environmental Sustainability  |
 |   22 |	S R Aparna | Acceleration in FPGA cloud | ![](https://img.shields.io/badge/-Completed-brightgreen) |
+|   23 |  Kaushika SG <br/> Vaishnavi Sudeep C  | Client Server Computing - World Wide Web | ![](https://img.shields.io/badge/-Completed-brightgreen) |
