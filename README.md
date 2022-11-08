@@ -31,7 +31,7 @@
 | 2 | 5 | Introduction & Characteristic of Virtualized Environments ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 |
 | 2 | 5 | Taxonomy of Virtualization Techniques ![](https://img.shields.io/badge/-Completed-brightgreen) | | 2 |
 | 2 | | Virtualization and Cloud Computing | | |
-| 2 | | Technology Examples. Containers: Docker, Linux containers | | |
+| 2 | 6 | Technology Examples. Containers: Docker, Linux containers | ![](https://img.shields.io/badge/-Completed-brightgreen) | 2 |
 | 3 | | Distributed Computing  | | |
 | 3 | | Cloud- Application - IoT, BigData | | |
 | 3 | | Scientific Applications | | | 
