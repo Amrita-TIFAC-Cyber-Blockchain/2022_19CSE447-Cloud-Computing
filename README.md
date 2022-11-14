@@ -16,43 +16,43 @@
 
 ### :watch: Course Plan 
 
-| Unit # | Lecture No. | Topic | Methodology | No. of Hours |
-|:------:|:-----------:|-------|-------------|:------------:|
-| # | # | Course and Class Introduction ![](https://img.shields.io/badge/-Completed-brightgreen) |  | 2 |
-| 1 | 1 | Introduction to Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 |
-| 1 | 1 | Definition of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen)| | 1 |
-| 1 | 4 | Evolution of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | | |
-| 1 | 2 | NIST Reference Model ![](https://img.shields.io/badge/-Completed-brightgreen) | | 2 |
+| Unit # | Lecture No. | Topic | No. of Hours |
+|:------:|:-----------:|-------|:------------:|
+| # | # | Course and Class Introduction ![](https://img.shields.io/badge/-Completed-brightgreen) | 2 |
+| 1 | 1 | Introduction to Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
+| 1 | 1 | Definition of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen)| 1 |
+| 1 | 4 | Evolution of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | |
+| 1 | 2 | NIST Reference Model ![](https://img.shields.io/badge/-Completed-brightgreen) | 2 |
 | 1 | | Service Delivery Model | | |
 | 1 | | Deployment Models | | |
-| 1 | 3 | Benefits and Challenges of Cloud Adoption ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 |
-| 1 | 3 | Introduction to popular Cloud Platforms ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 |
-| 2 | 5 | Virtualization and Cloud Computing Architecture ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 | 
-| 2 | 5 | Introduction & Characteristic of Virtualized Environments ![](https://img.shields.io/badge/-Completed-brightgreen) | | 1 |
-| 2 | 5 | Taxonomy of Virtualization Techniques ![](https://img.shields.io/badge/-Completed-brightgreen) | | 2 |
-| 2 | | Virtualization and Cloud Computing | | |
-| 2 | 6 | Technology Examples. Containers: Docker, Linux containers | ![](https://img.shields.io/badge/-Completed-brightgreen) | 2 |
-| 3 | | Distributed Computing  | | |
-| 3 | | Cloud- Application - IoT, BigData | | |
-| 3 | | Scientific Applications | | | 
-| 3 | | Business and Consumer Applications | | |
-| 3 | | Third Party Cloud Services | | |
-| 3 | | Security and Privacy Issues | | |
-| 3 | | Cloud-centric Regulatory Compliance Issues and Mechanisms | | |
+| 1 | 3 | Benefits and Challenges of Cloud Adoption ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
+| 1 | 3 | Introduction to popular Cloud Platforms ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
+| 2 | 5 | Virtualization and Cloud Computing Architecture ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 | 
+| 2 | 5 | Introduction & Characteristic of Virtualized Environments ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
+| 2 | 5 | Taxonomy of Virtualization Techniques ![](https://img.shields.io/badge/-Completed-brightgreen) | 2 |
+| 2 | | Virtualization and Cloud Computing | |
+| 2 | 6 | Technology Examples. Containers: Docker, Linux containers ![](https://img.shields.io/badge/-Completed-brightgreen) | 3 |
+| 3 | 7 | Distributed Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
+| 3 | | Cloud- Application - IoT, BigData | |
+| 3 | | Scientific Applications | | 
+| 3 | | Business and Consumer Applications | |
+| 3 | | Third Party Cloud Services | |
+| 3 | | Security and Privacy Issues | |
+| 3 | | Cloud-centric Regulatory Compliance Issues and Mechanisms | |
 
 ### Evaluation Criteria
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal][CA]** Monthly Quiz (2 Nos) | 5 |
-| **[Internal][CA]** Assignments (3 Nos) | 10 |
-| **[Internal][CA]** Case Study | 5 |
+| **[Internal][CA]** Monthly Quiz (1 Nos) | 5 |
+| **[Internal][CA]** Assignments (1 Nos) | 5 |
+| **[Internal][CA]** Case Study | 10 |
 | **[Internal]** Periodical I | 15 |
 | **[Internal]** Periodical II | 15 |
 | **[External]** End-Semester Exam | 50 |
 
 ### Case-Study
-[Click Here](Mini-Project)
+[Click Here](Mini-Project) view Mini-Project Topics and Teams
 
 ### Dates and Deadlines
 
@@ -61,7 +61,13 @@
 | Case Study Topic Finalization | 05 - Aug - 2022 |
 | Periodicals I | 02 - Sept - 2022 |
 | Periodicals II | 14 - Oct - 2022 |
-| Periodicals III | TBD |
+| Case Study Report Submission | 30 - Oct - 2022 |
+| Case Study Presentation Start | 01 - Nov - 2022 |
+| Periodicals III | 11 - Nov - 2022 |
+| Case Study Presentation Completion | 15 - Nov - 2022 |
+| Assignment Submission | 15 - Nov - 2022 |
+| Quiz 1 | 16 - Nov - 2022 |
+| Quiz 2 | 20 - Nov - 2022 |
 | End-Semester Exam | 30 - Nov - 2022 |
 
 ### :green_book: Text and Reference Books
