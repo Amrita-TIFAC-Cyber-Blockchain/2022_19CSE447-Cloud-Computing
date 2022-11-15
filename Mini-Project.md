@@ -22,9 +22,9 @@
 |   15 |	Rahul Kumar R <br/> Harish P <br/> Abishek K | Cloud load balancing  | ![](https://img.shields.io/badge/-Completed-brightgreen) |
 |   16 |	Gopinath <br/> Vishalprannao | Analysis on storage of G drive  |
 |   17 |	K.S.Naveen Kumar Reddy <br/> P. Raj Kamal <br/> U.Krishna Viswas | Multiplayer Game Hosting For ‘Awakening Of Heroes’  |  ![](https://img.shields.io/badge/-Completed-brightgreen) |
-|   18 |	Naressh Kumar B <br/> Dhanush Chandrasekar <br/> Ramanathan V <br/> Balaji KV | Spotify's migration from On-Premise to Google cloud platform  |
+|   18 |	Naressh Kumar B <br/> Dhanush Chandrasekar <br/> Ramanathan V <br/> Balaji KV | Spotify's migration from On-Premise to Google cloud platform  | ![](https://img.shields.io/badge/-Completed-brightgreen) |
 |   19 |	Srilakshmidaran P | Hypervisor - Rust and the cloud  | ![](https://img.shields.io/badge/-Completed-brightgreen) | 
 |   20 |	Pathi Ramya Sree | 	Grapevine  | ![](https://img.shields.io/badge/-Completed-brightgreen) |
-|   21 |	Kishore S <br/> Ananth Krishnan <br/> Haris Kumar	| Green Cloud Computing and Environmental Sustainability  |
+|   21 |	Kishore S <br/> Ananth Krishnan <br/> Haris Kumar	| Green Cloud Computing and Environmental Sustainability  | ![](https://img.shields.io/badge/-Completed-brightgreen) |
 |   22 |	S R Aparna | Acceleration in FPGA cloud | ![](https://img.shields.io/badge/-Completed-brightgreen) |
 |   23 |  Kaushika SG <br/> Vaishnavi Sudeep C  | Client Server Computing - World Wide Web | ![](https://img.shields.io/badge/-Completed-brightgreen) |
