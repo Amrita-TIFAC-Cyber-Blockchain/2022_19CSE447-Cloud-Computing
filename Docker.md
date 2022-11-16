@@ -32,7 +32,7 @@
 | HARISKUMAR S | | |
 | KAUSHIKA S G | [kaushikasg](https://hub.docker.com/u/kaushikasg) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | Kishore S | | |
-| Kolla Venkata Sai Naga Nakul | | | 
+| Kolla Venkata Sai Naga Nakul | [nakulkolla](https://hub.docker.com/u/nakulkolla) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | Rahul Kumar R | | |
 | Ramanathan V | | |
 | Ramireddy Venkata Manish Reddy | [manishreddie](https://hub.docker.com/u/manishreddie) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
@@ -41,14 +41,14 @@
 | SURYA R M | [suryarm19](https://hub.docker.com/u/suryarm19) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | Tummuri Vyomakesh | | | 
 | Ambati Sowmya | [cbenu4eee19102](https://hub.docker.com/u/cbenu4eee19102) | ![](https://img.shields.io/badge/-Available-darkgreen) |
-| ASHWIN ANANT R K | | | 
-| ASHWIN S | | |
+| ASHWIN ANANT R K | [ashwinanant](https://hub.docker.com/u/ashwinanant) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
+| ASHWIN S | [ashwin1671](https://hub.docker.com/u/ashwin1671) | ![](https://img.shields.io/badge/-Available-darkgreen) |
 | Balaji K V | | | 
 | C. Vaishnavi Sudeep | [vaishnavisudeepc](https://hub.docker.com/u/vaishnavisudeepc) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | GOPINATH P | | |
-| Jishnu R | | | 
+| Jishnu R | [jishee100](https://hub.docker.com/u/jishee100) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | Kannan S | [kannan120901](https://hub.docker.com/u/kannan120901) |  ![](https://img.shields.io/badge/-Not_Available-red) |
-| Mondu Satish Chandra | | |
+| Mondu Satish Chandra | [satishchandra01](https://hub.docker.com/u/satishchandra01) | ![](https://img.shields.io/badge/-Available-darkgreen) |
 | Nithiesh P N | [nithieshpn](https://hub.docker.com/u/nithieshpn) | ![](https://img.shields.io/badge/-Available-darkgreen) |
 | Pathi Ramya Sree | [pathiramyasree](https://hub.docker.com/u/pathiramyasree) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | R Ananthakrishnan | | | 
@@ -72,12 +72,12 @@
 | Himanshu Soni | | |
 | Karri Satya Naveen Kumar Reddy | [naveenreddykarri](https://hub.docker.com/u/naveenreddykarri) | ![](https://img.shields.io/badge/-Available-darkgreen) |
 | KARTHIK V RAO | | | 
-| KAVVIN U V | | |
+| KAVVIN U V | [kavvin07](https://hub.docker.com/u/kavvin07) | ![](https://img.shields.io/badge/-Not_Available-red) |
 | Mukesh S S | | | 
 | Naresh R | [nareshr60](https://hub.docker.com/u/nareshr60) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | POTHU RAJ KAMAL | | | 
-| Prramoth M M | | | 
-| R GOKUL | | | 
+| Prramoth M M | [prramoth](https://hub.docker.com/u/prramoth) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
+| R GOKUL | [gokulr7781](https://hub.docker.com/u/gokulr7781) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | Rithani Priyanga C K | | | 
 | UPADRASTA KRISHNA VISWAS | | | 
 | Sakthi Saravanan A | | |
