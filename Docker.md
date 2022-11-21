@@ -79,5 +79,5 @@
 | Prramoth M M | [prramoth](https://hub.docker.com/u/prramoth) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | R GOKUL | [gokulr7781](https://hub.docker.com/u/gokulr7781) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | Rithani Priyanga C K | [elc19042](https://hub.docker.com/u/elc19042) | ![](https://img.shields.io/badge/-Not_Available-red) | 
-| UPADRASTA KRISHNA VISWAS | [viswas7245](https://hub.docker.com/u/viswas7245) | ![](https://img.shields.io/badge/-Not_Available-red) | 
+| UPADRASTA KRISHNA VISWAS | [viswas7245](https://hub.docker.com/u/viswas7245) | ![](https://img.shields.io/badge/-Available-darkgreen) | 
 | Sakthi Saravanan A | [ssrulz](https://hub.docker.com/u/ssrulz) | ![](https://img.shields.io/badge/-Available-darkgreen) |
