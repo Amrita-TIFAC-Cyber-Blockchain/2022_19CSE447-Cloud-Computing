@@ -20,25 +20,20 @@
 |:------:|:-----------:|-------|:------------:|
 | # | # | Course and Class Introduction ![](https://img.shields.io/badge/-Completed-brightgreen) | 2 |
 | 1 | 1 | Introduction to Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
-| 1 | 1 | Definition of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen)| 1 |
-| 1 | 4 | Evolution of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | |
-| 1 | 2 | NIST Reference Model ![](https://img.shields.io/badge/-Completed-brightgreen) | 2 |
-| 1 | | Service Delivery Model | | |
-| 1 | | Deployment Models | | |
-| 1 | 3 | Benefits and Challenges of Cloud Adoption ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
+| 1 | 1 | Definition of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen)| 1* |
+| 1 | 4 | Evolution of Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
+| 1 | 2 | NIST Reference Model ![](https://img.shields.io/badge/-Completed-brightgreen) | 3 |
+| 1 | 3 | Benefits and Challenges of Cloud Adoption ![](https://img.shields.io/badge/-Completed-brightgreen) | 2 |
 | 1 | 3 | Introduction to popular Cloud Platforms ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
 | 2 | 5 | Virtualization and Cloud Computing Architecture ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 | 
-| 2 | 5 | Introduction & Characteristic of Virtualized Environments ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
+| 2 | 5 | Introduction & Characteristic of Virtualized Environments ![](https://img.shields.io/badge/-Completed-brightgreen) | 1* |
 | 2 | 5 | Taxonomy of Virtualization Techniques ![](https://img.shields.io/badge/-Completed-brightgreen) | 2 |
-| 2 | | Virtualization and Cloud Computing | |
 | 2 | 6 | Technology Examples. Containers: Docker, Linux containers ![](https://img.shields.io/badge/-Completed-brightgreen) | 3 |
+| 2 | 6 | Technology Examples. Containers: Docker, Linux containers ![](https://img.shields.io/badge/-Assignment-purple) | 1 |
+| 2 | 6 | Technology Examples. Containers: Docker, Linux containers ![](https://img.shields.io/badge/-Quiz-darkblue) | 1 |
 | 3 | 7 | Distributed Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
-| 3 | | Cloud- Application - IoT, BigData | |
-| 3 | | Scientific Applications | | 
-| 3 | | Business and Consumer Applications | |
-| 3 | | Third Party Cloud Services | |
-| 3 | | Security and Privacy Issues | |
-| 3 | | Cloud-centric Regulatory Compliance Issues and Mechanisms | |
+| 3 | - | Case Study Presentation ![](https://img.shields.io/badge/-Completed-brightgreen) | TBU |
+
 
 ### Evaluation Criteria
 
