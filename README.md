@@ -32,7 +32,7 @@
 | 2 | 6 | Technology Examples. Containers: Docker, Linux containers ![](https://img.shields.io/badge/-Assignment-purple) | 1 |
 | 2 | 6 | Technology Examples. Containers: Docker, Linux containers ![](https://img.shields.io/badge/-Quiz-darkblue) | 1 |
 | 3 | 7 | Distributed Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
-| 3 | - | Case Study Presentation ![](https://img.shields.io/badge/-Completed-brightgreen) | TBU |
+| 3 | - | Case Study Presentation ![](https://img.shields.io/badge/-Completed-brightgreen) | 6 |
 
 
 ### Evaluation Criteria
@@ -62,8 +62,8 @@
 | Case Study Presentation Completion | 15 - Nov - 2022 |
 | Assignment Submission | 15 - Nov - 2022 |
 | Quiz 1 | 16 - Nov - 2022 |
-| Quiz 2 | 20 - Nov - 2022 |
 | End-Semester Exam | 30 - Nov - 2022 |
+| Declaration of Results | 21 - Dec - 2022 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Anthony T Velte, “Cloud Computing: A practical Approach”, Tata McGraw Hill, 2009.
