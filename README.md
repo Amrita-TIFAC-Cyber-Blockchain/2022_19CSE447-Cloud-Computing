@@ -1,5 +1,6 @@
 # 19CSE447 - Cloud Computing ![](https://img.shields.io/badge/-Live-brightgreen)
-![](https://img.shields.io/badge/Batch-19EEE-lightgreen) ![](https://img.shields.io/badge/Batch-19ELC-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-Cloud-blue) ![](https://img.shields.io/badge/Subject-Elective-purple)
+![](https://img.shields.io/badge/Batch-19EEE-lightgreen) ![](https://img.shields.io/badge/Batch-19ELC-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-Cloud-blue) ![](https://img.shields.io/badge/Subject-Elective-purple)  <br/>
+![](https://img.shields.io/badge/Lecture-3-orange)  ![](https://img.shields.io/badge/Credits-3-orange)
 
 19CSE447 - Cloud Computing - 7th Sem - B.E. EEE 7&amp; ELC (Elective) - ASE, CBE
 
@@ -32,7 +33,7 @@
 | 2 | 6 | Technology Examples. Containers: Docker, Linux containers ![](https://img.shields.io/badge/-Assignment-purple) | 1 |
 | 2 | 6 | Technology Examples. Containers: Docker, Linux containers ![](https://img.shields.io/badge/-Quiz-darkblue) | 1 |
 | 3 | 7 | Distributed Computing ![](https://img.shields.io/badge/-Completed-brightgreen) | 1 |
-| 3 | - | Case Study Presentation ![](https://img.shields.io/badge/-Completed-brightgreen) | 6 |
+| 3 | - | Case Study Presentation ![](https://img.shields.io/badge/-Completed-brightgreen) | 7.5 |
 
 
 ### Evaluation Criteria
