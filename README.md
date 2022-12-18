@@ -1,6 +1,7 @@
-# 19CSE447 - Cloud Computing ![](https://img.shields.io/badge/-Live-brightgreen)
+# 19CSE447 - Cloud Computing ![](https://img.shields.io/badge/-Completed-brightgreen)
 ![](https://img.shields.io/badge/Batch-19EEE-lightgreen) ![](https://img.shields.io/badge/Batch-19ELC-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-Cloud-blue) ![](https://img.shields.io/badge/Subject-Elective-purple)  <br/>
-![](https://img.shields.io/badge/Lecture-3-orange)  ![](https://img.shields.io/badge/Credits-3-orange)
+![](https://img.shields.io/badge/Lecture-3-orange)  ![](https://img.shields.io/badge/Credits-3-orange) <br/>
+![](https://img.shields.io/badge/Students-60-blue) ![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/Average_Marks-TBD-blue) ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) 
 
 19CSE447 - Cloud Computing - 7th Sem - B.E. EEE 7&amp; ELC (Elective) - ASE, CBE
 
@@ -15,7 +16,7 @@
 | CO3 | Introduce to virtualization in cloud computing and various virtualization platforms |
 | CO4 | Learn how to use various cloud computing platforms like AWS, Google, etc. |
 
-### :watch: Course Plan 
+### :watch: Course Plan and Status
 
 | Unit # | Lecture No. | Topic | No. of Hours |
 |:------:|:-----------:|-------|:------------:|
@@ -48,7 +49,8 @@
 | **[External]** End-Semester Exam | 50 |
 
 ### Case-Study
-[Click Here](Mini-Project) view Mini-Project Topics and Teams
+[Click Here](Mini-Project) to view Mini-Project Topics and Teams <br>
+[Click Here](Docker) to view Docker Videos and Details
 
 ### Dates and Deadlines
 
@@ -74,3 +76,5 @@
  
 ### :notebook: Materials and Resources
  - [Cisco Cloud Computing Case Studies](https://www.cisco.com/c/en/us/solutions/cloud-computing/case-studies.html#~all-case-studies)
+ - [NIST Cloud Reference Model](Assets/NIST_Cloud_Reference_Model-SP-500-292.pdf)
+ - [Taxonomy of Virtualization](Assets/Masters_Thesis_Paulus_Kampert_August_2010-2.pdf)
